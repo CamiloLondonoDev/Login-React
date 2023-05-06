@@ -1,12 +1,6 @@
 import React from 'react';
-import Button from 'react-bootstrap/Button';
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-import InputGroup from 'react-bootstrap/InputGroup';
-import Form from 'react-bootstrap/Form';
-import {Envelope, Unlock} from 'react-bootstrap-icons';
-
+import { Button, Container, Row, Col, InputGroup, Form } from 'react-bootstrap';
+import { Envelope, Unlock } from 'react-bootstrap-icons';
 
 function LoginComponent() {
   return (
