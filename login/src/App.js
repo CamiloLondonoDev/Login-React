@@ -3,7 +3,6 @@ import LoginComponent from "./componentes/login.jsx";
 
 function App() {
   return (
-
     <LoginComponent/>
   );
 }
